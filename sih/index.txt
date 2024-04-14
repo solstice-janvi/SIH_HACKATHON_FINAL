@@ -1,0 +1,4 @@
+api key:- 
+AIzaSyCSEXZcmabmawNtGQzmcYBWkYYEHPOaeyY
+url:-
+https://minetech-c0a0e-default-rtdb.asia-southeast1.firebasedatabase.app/
